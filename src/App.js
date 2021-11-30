@@ -3,7 +3,6 @@ import {
   Switch,
   Route,
   Link,
-  useParams,
   useRouteMatch,
 } from "react-router-dom";
 import Movies from "./components/Movies";
